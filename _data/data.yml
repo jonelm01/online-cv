@@ -45,13 +45,40 @@ education:
         university: CUNY Hunter College
         time: 2021 - 2024 (degree in-progress)
         details: |
-          (Class info)
-            - Bullet point
-            - Bullet point
+            - 3.871 cumulative GPA
 
-#experiences:
-    #title: Experiences
-   # info:
+experiences:
+    title: List of Relevant Classes
+    info:
+    - role: Fall 2023 (In Progress)
+        details: |
+          -CSCI 34000 - Operating Systems
+          -CSCI 39541 - Basics of Game Engines
+          -CSCI 39575 - Graph Theory
+
+    - role: Spring 2023
+        details: |
+         -CSCI 33500 - Software Analysis and Design 3 (A)
+         -CSCI 39548 - Practical Web Development (A)
+         -CSCI 26500 - Computer Theory 1 (B)
+
+    - role: Fall 2022
+        details: |
+         -CSCI 23500 - Software Analysis and Design 2 (A-)
+         -CSCI 26000 - Computer Architecture 2 (A-)
+         -STAT 21300 - Intro to Applied Stat (A+)
+
+    - role: Spring 2022
+        details: |
+         -CSCI 13500 - Software Analysis and Design 1 (A)
+         -CSCI 16000 - Computer Architecture 1 (A+)
+         -MATH 15500 - Calculus 2 (A)
+
+    - role: Fall 2021
+        details: |
+         -CSCI 12700 - Introduction: Computer Science (A+)
+         -CSCI 15000 - Discrete Structures (B+)
+         -MATH 15000 - Calculus 1 (A)
      
 
 #certifications:
